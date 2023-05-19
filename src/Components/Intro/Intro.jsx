@@ -8,7 +8,7 @@ const Intro = () => {
                     About Us
                 </h1>
                 <span className="intro">
-                    D-Med is a decentralized solution for Electronic Medical Records sharing systems (EMR). It uses Ethereum network and IPFS technology at its core, giving you complete control of your data. Only authorized people and registered Medical Institutes can access your records.
+                    SMRS is a decentralized solution for Electronic Medical Records sharing systems (EMR). It uses Ethereum network and IPFS technology at its core, giving you complete control of your data. Only authorized people and registered Medical Institutes can access your records.
                 </span>
             </div>
         </>
